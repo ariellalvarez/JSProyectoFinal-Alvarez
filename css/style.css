@@ -81,15 +81,7 @@ main h3 .ul__none {
   padding: 20px 20px 20px 20px;
 }
 
-.respuesta{
-  color: rgb(19, 18, 18);
-  border: solid 2px goldenrod;
-  font-family: "Open Sans", sans-serif;
-  font-weight: 400;
-  text-align: left;
-  background-color: rgb(96, 104, 112);
-  padding: 20px 20px 20px 20px;
-}
+
 
 .separador{
   color: rgb(19, 18, 18);
