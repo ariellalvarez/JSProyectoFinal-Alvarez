@@ -258,8 +258,10 @@ botonVerHistorial.addEventListener("click", () => {
 botonBorrarHistorial.addEventListener("click", () => {
 
     localStorage.clear()
-
+    id = 0
     Swal.fire("Has borrado el historial con éxito!!!")
+
+
 
 })
 

@@ -1,0 +1,74 @@
+footer .footer__links, header nav .header__navbar, header {
+  font-family: "Merriweather", serif;
+  font-weight: 700;
+}
+
+* {
+  padding: 0;
+  margin: 0;
+}
+
+header {
+  background-color: rgb(82, 88, 95);
+}
+header nav .header__navbar {
+  background-color: rgb(82, 88, 95);
+}
+
+main {
+  background-color: rgb(133, 138, 143);
+  font-family: "Open Sans", sans-serif;
+}
+main h1 {
+  color: goldenrod;
+  border: solid 2px goldenrod;
+  font-family: "Open Sans", sans-serif;
+  font-weight: 700;
+  text-align: left;
+  padding: 10px;
+  background-color: rgb(96, 104, 112);
+}
+main h2 {
+  color: goldenrod;
+  font-family: "Open Sans", sans-serif;
+  font-weight: 400;
+  text-align: left;
+  padding: 10px 0px;
+}
+
+footer {
+  background-color: rgb(82, 88, 95);
+  font-family: "Merriweather", serif;
+  font-weight: 700;
+  padding: 10px;
+}
+footer .footer__map {
+  max-width: 300px;
+  max-height: 300px;
+}
+footer .footer__links {
+  list-style: none;
+}
+
+.main__debajoh1 {
+  border: solid 2px goldenrod;
+  padding: 20px;
+}
+
+.listaDentroSection {
+  padding: 10px 40px;
+}
+
+.footer__contacto {
+  display: inline;
+}
+
+.cloud__main--padding {
+  padding: 20px;
+}
+
+main h3 .ul__none {
+  list-style: none;
+}
+
+/*# sourceMappingURL=style.css.map */
